@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.center {
+    margin: 0 auto;
+    width: 60%;
+    text-align: left;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+textarea, input, select {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #0078d4;
+}
+
